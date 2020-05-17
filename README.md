@@ -1,12 +1,12 @@
 
-# comment to highlights
+# Comments-to-highlights
 
-## Comment to highlight is a python script that runs on Jupiter and Binder. The goal is to transform the log of the chat of a zoom meeting into an object ready to be paste in Strapi as highlights. 
+## Comments to highlight is a python script that runs on Jupiter and Binder. The goal is to transform the log of the chat of a zoom meeting into an object ready to be paste in Strapi as highlights. 
 
 1. Paste comments download into the same folder as this script
-2. open the script. 
-3. in the 3 box input the time stamp manually And the starttime of the meeting in seconds in case the command -start wasn't used. 
-4. run all boxes. 
+2. Open the script. 
+3. In the 3 box input the time stamp manually And the starttime of the meeting HH:MM:SS 24 hour format in case the command -start wasn't used. Also input timestamp
+4. Run all boxes. 
 5. The Jupyter book will display the information of the comments as well as the object for strapi. CHECK EVERYTHING MAKES SENSE, DOUBLE CHECK!. This is a Beta version.
 
 
