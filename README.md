@@ -1,7 +1,7 @@
 
-#comment to highlights
+# comment to highlights
 
-##Comment to highlight is a python script that runs on Jupiter and Binder. The goal is to transform the log of the chat of a zoom meeting into an object ready to be paste in Strapi as highlights. 
+## Comment to highlight is a python script that runs on Jupiter and Binder. The goal is to transform the log of the chat of a zoom meeting into an object ready to be paste in Strapi as highlights. 
 
 1. Paste comments download into the same folder as this script
 2. open the script. 
@@ -18,7 +18,7 @@
 
 
 
-
+---------------------------------------------------------------------------------------------------------------------------
 
 
 # Conda environment with environment.yml
